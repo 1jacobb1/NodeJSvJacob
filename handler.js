@@ -1,0 +1,1 @@
+exports.teacher = require('./handler.teacher.js');
